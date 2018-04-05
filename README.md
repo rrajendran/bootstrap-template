@@ -4,11 +4,7 @@ Status
 
 bootstrap-template
 ==========
-Web interface to to test Json path and JxPath
-
-Screenshot
-==========
-![Bootstrap Template](https://raw.githubusercontent.com/rrajendran/bootstrap-template/master/screenshot.png)
+Getting started with bootstrap template
 
 Compile and Run
 ==========
