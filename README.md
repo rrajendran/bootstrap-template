@@ -1,18 +1,18 @@
 Status
 ======
-[![Build Status](https://travis-ci.org/rrajendran/jsonpath-viewer.svg)](https://travis-ci.org/rrajendran/jsonpath-viewer)
+[![Build Status](https://travis-ci.org/rrajendran/bootstrap-template.svg)](https://travis-ci.org/rrajendran/bootstrap-template)
 
-jsonpath-viewer
+bootstrap-template
 ==========
 Web interface to to test Json path and JxPath
 
 Screenshot
 ==========
-![Json Path Viewer](https://raw.githubusercontent.com/rrajendran/jsonpath-viewer/master/screenshot.png)
+![Bootstrap Template](https://raw.githubusercontent.com/rrajendran/bootstrap-template/master/screenshot.png)
 
 Compile and Run
 ==========
 
 mvn clean jetty:run
 
-Navigate to <a href="http://localhost:2020/jsonpath-viewer/">http://localhost:2020/jsonpath-viewer/</a>
+Navigate to <a href="http://localhost:2020/bootstrap-template/">http://localhost:2020/bootstrap-template/</a>
